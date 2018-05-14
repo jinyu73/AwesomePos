@@ -1,7 +1,5 @@
 <template>
     <div class="post">
-        Hello AwesomePos
-        <i class="icon iconfont icon-dianpu"></i>
     </div>
 </template>
 
